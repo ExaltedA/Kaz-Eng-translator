@@ -80,3 +80,5 @@ app/local_models/*
 # IDEs and other tool-specific files
 .idea/
 *.swp
+
+.DS_Store
